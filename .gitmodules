@@ -1,0 +1,6 @@
+[submodule "JapaneseCross"]
+	path = JapaneseCross
+	url = git@github.com:dgellow/JapaneseCross.git
+[submodule "OrientalTable"]
+	path = OrientalTable
+	url = git@github.com:dgellow/OrientalTable.git
