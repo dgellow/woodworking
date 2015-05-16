@@ -4,3 +4,6 @@
 [submodule "OrientalTable"]
 	path = OrientalTable
 	url = git@github.com:dgellow/OrientalTable.git
+[submodule "Tetris"]
+	path = Tetris
+	url = git@github.com:dgellow/Tetris.git
